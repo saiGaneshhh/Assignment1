@@ -1,0 +1,11 @@
+.btn-gradient {
+background: linear-gradient(90deg, #5895F0 0%, #F1B662 100%);
+  border: none;
+  padding: 10px 54px;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+}
